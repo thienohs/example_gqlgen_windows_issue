@@ -1,0 +1,9 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+/api
+/example_gqlgen_windows_issue
+/api_modules
+/lastupdate.tmp
+/logfile
+/build
+/config/.dev*.env
